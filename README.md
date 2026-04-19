@@ -1,6 +1,6 @@
 # 🔐 QuizApplication
 
-A web-based **Quiz Application** built with Java Servlets, JSP, and MongoDB — developed as part of the **Advanced Internet Programming (AIP) Lab — Experiment 3**, focused on **InterServlet Communication** and HTTP Session Management.
+A web-based **Quiz Application** built with Java Servlets, JSP, and MongoDB — developed as part of the **Advanced Internet Programming (AIP)**, focused on **InterServlet Communication** and HTTP Session Management.
 
 ---
 
